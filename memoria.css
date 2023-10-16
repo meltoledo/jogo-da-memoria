@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(104, 163, 214);
+}
+h1{
+    color:rgb(13, 30, 75);
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+div{
+    font-size:25px;
+    
+}
+button{
+    background-color: rgb(46, 101, 173);
+color: black;
+font-size: 25px;
+
+}
